@@ -6,8 +6,11 @@
 
 ## Asp.net_core
 ### asp.net core web api
-+ [fundamentals][0]
-+ [web api fundamentals][1]
+| Course                        |   Duration    | 
+| :---------------------------- |:-------------:| 
+| [fundamentals][0]             |  5h 15m       |  
+| [web api fundamentals][1]     |  8h 0m        |  
+
 ### other topics
 + [identity][1] 
 + [OAuth][2]
