@@ -22,6 +22,7 @@
 + angular 2/4
 + ngrx store/effects
 + bootstrap 3/4
++ webpack
 + front testing (jasmine?)
 + ...
 
