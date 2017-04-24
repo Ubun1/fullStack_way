@@ -1,10 +1,10 @@
 ## Contents
-* [Asp.net core](#asp.net_core)
-* [Angular](#angular)
-* [PostgreSQL](#postgresql)
+* [back](#back)
+* [front](#front)
+* [persistance](#persistance)
 * [devops](#devops)
 
-## Asp.net_core
+## back
 ### asp.net core web api
 | Course                        |   Duration    | 
 | :---------------------------- |:-------------:| 
@@ -18,14 +18,14 @@
 + [documentation (swagger?)][4]
 + api testing
 
-## Angular
+## front
 + angular 2/4
 + ngrx store/effects
 + bootstrap 3/4
 + front testing (jasmine?)
 + ...
 
-## PostgreSQL
+## persistance
 + anci SQL
 + postgress tuning 
 + postgres administration (maybe)
