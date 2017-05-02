@@ -15,6 +15,8 @@
 + [identity][1] 
 + [OAuth][2]
 + [Entity Framework][3]
++ sockets - signalR
++ graphQL
 + [documentation (swagger?)][4]
 + api testing
 
