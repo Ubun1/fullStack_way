@@ -12,6 +12,7 @@
 | [web api fundamentals][1]     |  8h 0m        |  
 
 ### other topics
++ MediatR
 + [identity][1] 
 + [OAuth][2]
 + [Entity Framework][3]
